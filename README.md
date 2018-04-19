@@ -169,6 +169,7 @@ The management script release will follow within the next couple of days.
 | CRYPTO  | Logo | Url |
 |--------|--------------|-----|
 | PIVX |  ![PIVX](/assets/pivx.jpg)  |  https://pivx.org/ |
+| KATANA2X |  ![K2X](/assets/katana2x.jpg)  |  https://mediafrenzy.ninja/ |
 | DASH |  ![DASH](/assets/dash.jpg)  | https://www.dash.org/ |
 | InstaCash |  ![instacash](/assets/ich.png)  | https://www.instacash.cc/ |
 | DESIRE |  ![DESIRE](/assets/desire.jpg)  | https://github.com/lazyboozer/Desire  |
